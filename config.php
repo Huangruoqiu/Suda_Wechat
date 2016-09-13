@@ -11,7 +11,7 @@ return [
      */
     'app_id'  => 'wxe1c55c279b43b9a6',         // AppID
     'secret'  => '3fe34aecf778f4cff1071500b8188d0c',     // AppSecret
-    'token'   => 'xcGDmNjdFHEH2oBy2F9o',          // Token
+    'token'   => 'hefangteng',          // Token
 //    'aes_key' => '',                    // EncodingAESKey，安全模式下请一定要填写！！！
     /**
      * 日志配置
