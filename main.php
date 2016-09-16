@@ -23,7 +23,7 @@ $options = [
 //日志配置
     'log' => [
         'level' => 'debug',
-        'file'  => 'wechat.log',
+//        'file'  => 'wechat.log',
     ],
 
 ];
