@@ -8,9 +8,6 @@ $app = new Application($options);
 
 $server = $app->server;
 
-$server->setMessageHandler(function($message){
-    return "你好，欢迎关注我！";
-});
 $server->serve()->send();
 
 
