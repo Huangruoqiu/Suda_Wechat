@@ -17,9 +17,9 @@ $options = [
     //打开调试模式
 'debug'     => true,
 //微信基本配置，从公众平台获取
-    'app_id'    => '【微信公众号appid】',
-    'secret'    => '【微信公众号appsecret】',
-'token'     => '【微信公众号自定义token】',
+    'app_id'    => 'wxe1c55c279b43b9a6',
+    'secret'    => '3fe34aecf778f4cff1071500b8188d0c',
+'token'     => 'hefangteng',
 //日志配置
     'log' => [
         'level' => 'debug',
