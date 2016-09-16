@@ -203,7 +203,7 @@ class Application extends Container
             $this['cache'] = $this['config']['cache'];
         } else {
             $this['cache'] = function () {
-                return new FilesystemCache(sys_get_temp_dir());
+                return new FilesystemCache("D:\\freehost\\fangteng\\web");
             };
         }
 

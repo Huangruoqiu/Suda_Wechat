@@ -1,8 +1,0 @@
-[2016-09-16 11:36:40] easywechat.DEBUG: Current config: {"debug":true,"app_id":"***3b9a6","secret":"***88d0c","token":"hefangteng","log":{"level":"debug","file":"wechat.log"}} []
-[2016-09-16 11:36:40] easywechat.DEBUG: Request received: {"Method":"GET","URI":"/Suda_Wechat/main.php","Query":null,"Protocal":"HTTP/1.1","Content":""} []
-[2016-09-16 12:33:24] easywechat.DEBUG: Current config: {"debug":true,"app_id":"***3b9a6","secret":"***88d0c","token":"hefangteng","log":{"level":"debug","file":"wechat.log"}} []
-[2016-09-16 12:33:24] easywechat.DEBUG: Request received: {"Method":"GET","URI":"/Suda_Wechat/main.php??signature=0472bdb62c91d8d678a6d464eda6f774364fbb5d&echostr=5331646900160396775&timestamp=1474000327&nonce=150964284%20200%2050457%2048%201510","Query":"%3Fsignature=0472bdb62c91d8d678a6d464eda6f774364fbb5d&echostr=5331646900160396775&nonce=150964284%20200%2050457%2048%201510&timestamp=1474000327","Protocal":"HTTP/1.1","Content":""} []
-[2016-09-16 12:33:24] easywechat.DEBUG: Output 'echostr' is '5331646900160396775'. [] []
-[2016-09-16 12:33:27] easywechat.DEBUG: Current config: {"debug":true,"app_id":"***3b9a6","secret":"***88d0c","token":"hefangteng","log":{"level":"debug","file":"wechat.log"}} []
-[2016-09-16 12:33:27] easywechat.DEBUG: Request received: {"Method":"GET","URI":"/Suda_Wechat/main.php?signature=0472bdb62c91d8d678a6d464eda6f774364fbb5d&echostr=5331646900160396775&timestamp=1474000327&nonce=150964284%20200%2050457%2048%201510","Query":"echostr=5331646900160396775&nonce=150964284%20200%2050457%2048%201510&signature=0472bdb62c91d8d678a6d464eda6f774364fbb5d&timestamp=1474000327","Protocal":"HTTP/1.1","Content":""} []
-[2016-09-16 12:33:27] easywechat.DEBUG: Output 'echostr' is '5331646900160396775'. [] []
